@@ -75,7 +75,7 @@ class _TabsPageState extends State<TabsPage> {
   }
 }
 
-/// Cars
+/// Cadastrar
 class CadastrarTab extends StatefulWidget {
   final GlobalKey<ScaffoldState> scaffoldKey;
 
